@@ -1,4 +1,4 @@
-package ar.edu.unlam.pb2.eva03;
+package ar.edu.unlam.pb2.eva03.clases;
 
 import java.util.HashSet;
 import java.util.Set;

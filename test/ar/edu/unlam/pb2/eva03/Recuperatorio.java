@@ -4,6 +4,20 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+import ar.edu.unlam.pb2.eva03.clases.Acuatico;
+import ar.edu.unlam.pb2.eva03.clases.Anfibio;
+import ar.edu.unlam.pb2.eva03.clases.Avion;
+import ar.edu.unlam.pb2.eva03.clases.Camion;
+import ar.edu.unlam.pb2.eva03.clases.Destructor;
+import ar.edu.unlam.pb2.eva03.clases.FuerzaArmada;
+import ar.edu.unlam.pb2.eva03.clases.HidroAvion;
+import ar.edu.unlam.pb2.eva03.clases.Portaviones;
+import ar.edu.unlam.pb2.eva03.clases.Submarino;
+import ar.edu.unlam.pb2.eva03.clases.Tanque;
+import ar.edu.unlam.pb2.eva03.clases.Terrestre;
+import ar.edu.unlam.pb2.eva03.clases.VehiculoIncompatible;
+import ar.edu.unlam.pb2.eva03.clases.VehiculoInexistente;
+import ar.edu.unlam.pb2.eva03.clases.Volador;
 import ar.edu.unlam.pb2.eva03.enumeradores.TipoDeBatalla;
 
 public class Recuperatorio {

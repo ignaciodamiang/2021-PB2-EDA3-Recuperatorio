@@ -1,4 +1,4 @@
-package ar.edu.unlam.pb2.eva03;
+package ar.edu.unlam.pb2.eva03.clases;
 
 public class Submarino extends Acuatico {
 

@@ -1,10 +1,12 @@
-package ar.edu.unlam.pb2.eva03;
+package ar.edu.unlam.pb2.eva03.clases;
 
-public class Tanque extends Terrestre {
+import ar.edu.unlam.pb2.eva03.interfaces.ITerrestre;
+
+public class Terrestre extends Vehiculo implements ITerrestre{
 
 	private Double velocidad = 0.0;
 
-	public Tanque(Integer idVehiculo, String nombreVehiculo) {
+	public Terrestre(Integer idVehiculo, String nombreVehiculo) {
 		super(idVehiculo, nombreVehiculo);
 	}
 
@@ -17,5 +19,4 @@ public class Tanque extends Terrestre {
 	public void setVelocidad(Double velocidad) {
 		this.velocidad = velocidad;
 	}
-
 }

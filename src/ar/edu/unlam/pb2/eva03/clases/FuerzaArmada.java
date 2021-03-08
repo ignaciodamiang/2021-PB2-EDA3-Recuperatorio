@@ -1,4 +1,4 @@
-package ar.edu.unlam.pb2.eva03;
+package ar.edu.unlam.pb2.eva03.clases;
 
 import java.util.HashMap;
 import java.util.HashSet;
@@ -6,6 +6,9 @@ import java.util.Map;
 import java.util.Set;
 
 import ar.edu.unlam.pb2.eva03.enumeradores.TipoDeBatalla;
+import ar.edu.unlam.pb2.eva03.interfaces.IAcuatico;
+import ar.edu.unlam.pb2.eva03.interfaces.ITerrestre;
+import ar.edu.unlam.pb2.eva03.interfaces.IVolador;
 
 public class FuerzaArmada {
 

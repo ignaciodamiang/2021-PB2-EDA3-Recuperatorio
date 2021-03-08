@@ -1,4 +1,6 @@
-package ar.edu.unlam.pb2.eva03;
+package ar.edu.unlam.pb2.eva03.clases;
+
+import ar.edu.unlam.pb2.eva03.interfaces.IAcuatico;
 
 public class Acuatico extends Vehiculo implements IAcuatico{
 
